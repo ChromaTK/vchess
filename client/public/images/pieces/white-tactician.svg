@@ -80,13 +80,13 @@
        inkscape:connector-curvature="0"
        id="path10688"
        d="m 20.598979,27.528386 -5.320088,-4.238309 9.423666,-11.909955 11.401835,7.009808 c 3.377366,2.076393 5.245889,8.165002 3.071121,11.01109 -2.01284,2.634176 -6.336052,4.927633 -9.812605,2.996215 z"
-       style="fill:#ffff80;fill-opacity:1;stroke:#000000;stroke-width:1.87242;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:white;fill-opacity:1;stroke:#000000;stroke-width:1.87242;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccsccsc"
        inkscape:connector-curvature="0"
        id="path10690"
        d="M 12.658898,22.245762 22.82839,9.5868642 c 0,0 1.215432,-0.7616529 1.747881,-0.4766949 0.639924,0.342477 0.688559,2.0656777 0.688559,2.0656777 l -10.169491,12.76483 c 0,0 -1.726503,0.81767 -2.330509,0.317797 -0.517574,-0.428342 -0.105932,-2.012712 -0.105932,-2.012712 z"
-       style="fill:#ffff80;fill-opacity:1;stroke:#000000;stroke-width:1.56035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:white;fill-opacity:1;stroke:#000000;stroke-width:1.56035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <path
      style="fill:#ffff80;fill-opacity:1;stroke:#000000;stroke-width:1.86262;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -104,6 +104,6 @@
      d="m 34.634037,43.210605 3.465,-2.8127 h -24.662 l 3.4925,2.8127 h 17.71 m 5.104,-4.6607 v -6.5197 h -3.7345 v 3.7345 h -8.4095 v -3.7345 h -3.6784 v 3.7345 h -8.382 v -3.7345 h -3.7345 v 6.5197 h 27.94"
      id="path10135"
      inkscape:connector-curvature="0"
-     style="fill:#ffff80;fill-opacity:1;stroke-width:1.1"
+     style="fill:white;fill-opacity:1;stroke-width:1.1"
      sodipodi:nodetypes="cccccccccccccccccc" />
 </svg>
